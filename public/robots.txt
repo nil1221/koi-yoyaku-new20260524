@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /admin
+Disallow: /admin/*
+Disallow: /fortuneteller
+Disallow: /fortuneteller/*
+Allow: /
+Allow: /guide
+Allow: /legal
+Allow: /profile/*
+Allow: /uranai-touroku
+
+Sitemap: https://example.com/sitemap.xml
