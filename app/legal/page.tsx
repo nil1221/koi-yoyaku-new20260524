@@ -19,27 +19,27 @@ export default function LegalPage() {
         <div className="bg-white rounded-2xl shadow-lg p-8 space-y-6">
           <div className="border-b border-gray-200 pb-6">
             <h3 className="text-lg font-bold text-purple-700 mb-2">役務提供事業者</h3>
-            <p className="text-gray-700">株式会社ニル・クリエーション</p>
+            <p className="text-gray-700">圓谷祐大</p>
           </div>
 
           <div className="border-b border-gray-200 pb-6">
             <h3 className="text-lg font-bold text-purple-700 mb-2">運営責任者</h3>
-            <p className="text-gray-700">加藤 萌奈</p>
+            <p className="text-gray-700">圓谷祐大</p>
           </div>
 
           <div className="border-b border-gray-200 pb-6">
             <h3 className="text-lg font-bold text-purple-700 mb-2">所在地</h3>
-            <p className="text-gray-700">東京都渋谷区恵比寿4-20-3 恵比寿ガーデンプレイスタワー18階</p>
+            <p className="text-gray-700">〒185-0002 東京都国分寺市東戸倉1-20-54</p>
           </div>
 
           <div className="border-b border-gray-200 pb-6">
             <h3 className="text-lg font-bold text-purple-700 mb-2">電話番号</h3>
-            <p className="text-gray-700">03-5789-5267</p>
+            <p className="text-gray-700">080-4838-8373</p>
           </div>
 
           <div className="border-b border-gray-200 pb-6">
             <h3 className="text-lg font-bold text-purple-700 mb-2">メールアドレス</h3>
-            <p className="text-gray-700">nil.creation1221@gmail.com</p>
+            <p className="text-gray-700">koi.denwa1225@gmail.com</p>
           </div>
 
           <div className="border-b border-gray-200 pb-6">
