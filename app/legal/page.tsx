@@ -18,28 +18,28 @@ export default function LegalPage() {
 
         <div className="bg-white rounded-2xl shadow-lg p-8 space-y-6">
           <div className="border-b border-gray-200 pb-6">
-            <h3 className="text-lg font-bold text-purple-700 mb-2">役務提供事業者</h3>
-            <p className="text-gray-700">圓谷祐大</p>
+            <h3 className="text-lg font-bold text-purple-700 mb-2">事業者名（氏名）</h3>
+            <p className="text-gray-700">澁谷メディカルホールディングス株式会社</p>
           </div>
 
           <div className="border-b border-gray-200 pb-6">
-            <h3 className="text-lg font-bold text-purple-700 mb-2">運営責任者</h3>
-            <p className="text-gray-700">圓谷祐大</p>
+            <h3 className="text-lg font-bold text-purple-700 mb-2">代表者名</h3>
+            <p className="text-gray-700">澁谷智子</p>
           </div>
 
           <div className="border-b border-gray-200 pb-6">
             <h3 className="text-lg font-bold text-purple-700 mb-2">所在地</h3>
-            <p className="text-gray-700">〒185-0002 東京都国分寺市東戸倉1-20-54</p>
+            <p className="text-gray-700">〒980-0873 宮城県仙台市青葉区広瀬町2-5 澁谷ビル２階</p>
           </div>
 
           <div className="border-b border-gray-200 pb-6">
             <h3 className="text-lg font-bold text-purple-700 mb-2">電話番号</h3>
-            <p className="text-gray-700">080-4838-8373</p>
+            <p className="text-gray-700">022-398-7761</p>
           </div>
 
           <div className="border-b border-gray-200 pb-6">
             <h3 className="text-lg font-bold text-purple-700 mb-2">メールアドレス</h3>
-            <p className="text-gray-700">koi.denwa1225@gmail.com</p>
+            <p className="text-gray-700">info@shibuya-m.jp</p>
           </div>
 
           <div className="border-b border-gray-200 pb-6">
