@@ -2,13 +2,10 @@ import { Suspense } from 'react';
 import ProfileContent from './ProfileContent';
 
 export async function generateStaticParams() {
-  return [
-    { id: '1' },
-    { id: '2' },
-    { id: '3' },
-    { id: '4' },
-    { id: '5' },
-  ];
+  // 手動で増やさず、1から50までのID（'1'〜'50'）を自動で生成します
+  return Array.from({ length: 50 }, (_, i) => ({
+    id: String(i + 1),
+  }));
 }
 
 export default async function FortunetellerProfile({ params }: { params: Promise<{ id: string }> }) {
